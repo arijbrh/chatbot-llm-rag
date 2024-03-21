@@ -1,3 +1,3 @@
 # certibot
 
-Demo chatbot pour CertiDeal
+Demo chatbot 
